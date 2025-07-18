@@ -4,11 +4,10 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/syedibrahim906/syedibrahim906](https://github.com/syedibrahim906/syedibrahim906)
-
+- 👨‍💻 All of my projects are available at [https://github.com/syedibrahim906/syedibrahim906]
 - 📫 How to reach me **www.syedibrahim1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UwOoZHuUO6PNi_vQFvZbstcNYW8WwDQK/view?usp=sharing](https://drive.google.com/file/d/1UwOoZHuUO6PNi_vQFvZbstcNYW8WwDQK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1raIhESZkI3XuN28HmI1jjaEOLFyt_Lca/view]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
