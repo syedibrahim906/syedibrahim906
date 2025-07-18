@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/syedibrahim906/syedibrahim906]
+- 👨‍💻 All of my projects are available at [https://github.com/syedibrahim906]
 - 📫 How to reach me **www.syedibrahim1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1raIhESZkI3XuN28HmI1jjaEOLFyt_Lca/view]
