@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/syedibrahim906]
 - 📫 How to reach me **www.syedibrahim1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1raIhESZkI3XuN28HmI1jjaEOLFyt_Lca/view]
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1V2dFwHBAGwItd5v6zrrIzyrGZzIVK6xp]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
